@@ -85,6 +85,7 @@ iii). Offer Actionable Recommendations:
 Provide practical suggestions to real estate agencies for enhancing profitability and market presence. Utilize insights derived from the model to optimize marketing strategies and improve overall decision-making process
 
 # **TABLE OF CONTENT**
+ 
 1.   Data Preparation
 2.   Data cleaning
 1.   Exploratory data analysis
@@ -124,6 +125,17 @@ Overall the model was the best fit model for this predictions
 
 2.   Multicollinearity Management: Address multicollinearity by employing techniques such as feature selection, principal component analysis (PCA), or regularization methods like ridge regression or Lasso regression to prioritize important predictors and stabilize the model's interpretability.
 
-1.   Assumption Validation: Before using polynomial regression, verify the linearity assumption between predictors and the target variable. If non-linearity is observed, explore alternative regression techniques like generalized additive models (GAMs) or spline regression for better capturing complex relationships.
-2. Overfitting Prevention: Prevent overfitting by balancing model complexity and generalizability through techniques such as cross-validation, regularization, or model selection criteria. Consider collecting more data or using bootstrapping to improve robustness and reduce noise in the model.
+3.   Assumption Validation: Before using polynomial
+4.   regression, verify the linearity assumption between predictors and the target variable. If non-linearity is observed, explore alternative regression techniques like generalized additive models (GAMs) or spline regression for better capturing complex relationships.
 
+5.    Overfitting Prevention: Prevent overfitting by balancing model complexity and generalizability through techniques such as cross-validation, regularization, or model selection criteria. Consider collecting more data or using bootstrapping to improve robustness and reduce noise in the model.
+
+# **REPOSITORY STRUCTURE**
+
+- Phase 2 presentation.pdf
+
+- README (5).md
+
+- README.md
+
+- student_(1) (2) (1).ipynb
