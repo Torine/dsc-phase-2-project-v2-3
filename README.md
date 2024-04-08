@@ -1,3 +1,6 @@
+
+![city seattle ](https://user-images.githubusercontent.com/113871039/198593894-4be780d6-137b-497c-924d-f5ad5dec96e2.jpeg)
+
 # REAL ESTATE SALES PREDICTION MODEL
 
 ## Project Overview
