@@ -134,8 +134,6 @@ Overall the model was the best fit model for this predictions
 
 - Phase 2 presentation.pdf
 
-- README (5).md
-
 - README.md
 
 - student_(1) (2) (1).ipynb
